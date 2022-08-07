@@ -18,7 +18,7 @@ List and dictionary comprehension related coding is also practiced using certain
 ## Practice lab 11 Sept 2021
 In this assignment,importing new libraries into phyton for various AI ML related applications is learnt and practiced.
 linspace() command imported from numpy is used to create an array. The numpy library is imported as : import numpy as np
-np.eye(7) craetes an 7*7 matrix with diagonal elements as 1. Also required diagonals elements can also be specified as a list and then matrix can be formed using np.diag()
+np.eye(7) creates an 7*7 matrix with diagonal elements as 1. Also required diagonals elements can also be specified as a list and then matrix can be formed using np.diag()
 Creating array using rand,randn is also practiced by importing : from numpy.random import rand, from numpy.random import randn
 Fetching elements from an array is also coded and practiced.
 arr = np.arange(40)
