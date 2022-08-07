@@ -10,7 +10,7 @@ The difference between pop() and remove() is also analysed where pop() would rem
 
 ## Practice lab 6 Sept 2021
 In this assignment, defining a function and calling the function is learnt.
-A function "Method" is defined which would display the results of the following functions: .split(), .update(), .format(), continue
+A function "Method" is defined which would display the results of the following functions:split(), update(), format(), continue.
 Making use of enumerate() function on a string and creating dictionary using enumerate() is also practiced.
 List and dictionary comprehension related coding is also practiced using certain examples having one line of code.
 
